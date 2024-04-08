@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:24:11.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GbjC3fbDxVOSRn_fsgX1" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:25:27.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2dMr2gUimsSQZcGlErRo" version="24.2.2" type="github">
   <diagram name="第 1 页" id="xDeUuq_dLQ9xrVxdTuq4">
     <mxGraphModel dx="819" dy="441" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,13 +89,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-50" value="同步调拨单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
-          <mxGeometry x="288" y="182" width="70" height="34" as="geometry" />
+          <mxGeometry x="287" y="182" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-52" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
           <mxGeometry x="270" y="250" width="48" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-67" value="调仓单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
           <mxGeometry x="326" y="250" width="48" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-70" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;根据什么条件区分？&lt;/span&gt;" style="shape=note;strokeWidth=1;fontSize=14;size=7;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
+          <mxGeometry x="364" y="208" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TAGOlAmAuXUKBA5VvmmO-11" target="TAGOlAmAuXUKBA5VvmmO-13">
           <mxGeometry relative="1" as="geometry" />
