@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:01:17.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4cToneeh8EcLQ-4W9Imi" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:02:45.625Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NymRA-0dHG9ZyzMUzmJz" version="24.2.2" type="github">
   <diagram name="第 1 页" id="xDeUuq_dLQ9xrVxdTuq4">
     <mxGraphModel dx="819" dy="441" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-1" value="千年舟业务流程图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="78.00000000000045" y="168" width="480" height="480" as="geometry" />
+          <mxGeometry x="78.00000000000045" y="168" width="480" height="622" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-2" value="B2B" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry y="20" width="120" height="460" as="geometry" />
+          <mxGeometry y="20" width="120" height="602" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-3" value="NC" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry x="120" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="602" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-4" value="CJM" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry x="240" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="240" y="20" width="120" height="602" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-5" value="PDA" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry x="360" y="20" width="120" height="460" as="geometry" />
+          <mxGeometry x="360" y="20" width="120" height="602" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-6" value="运营部" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="58" y="208" width="500" height="68" as="geometry" />
@@ -96,7 +96,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-29" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;单据，商标，嵌套比例，产品都要核对，不能多不能少&lt;/font&gt;" style="shape=note;strokeWidth=1;fontSize=14;size=7;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="572" y="462" width="70" height="56" as="geometry" />
+          <mxGeometry x="566" y="460" width="70" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-36" value="临沂商标分仓" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="58" y="594" width="500" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
