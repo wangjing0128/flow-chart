@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:32:45.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="n8fBB8UgvgkRmGK6idAx" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:33:28.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zjE_FGn-VyjbqbLxloZQ" version="24.2.2" type="github">
   <diagram name="第 1 页" id="xDeUuq_dLQ9xrVxdTuq4">
     <mxGraphModel dx="819" dy="441" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-46" value="申请商标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-72">
           <mxGeometry x="40" y="22" width="70" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-82" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;品管还是工厂向品牌方申请？&lt;/span&gt;" style="shape=note;strokeWidth=1;fontSize=14;size=7;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-72">
+          <mxGeometry x="130" y="26" width="70" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
