@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:25:27.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2dMr2gUimsSQZcGlErRo" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:27:47.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rQ3ttua-40a6j0lrBR07" version="24.2.2" type="github">
   <diagram name="第 1 页" id="xDeUuq_dLQ9xrVxdTuq4">
     <mxGraphModel dx="819" dy="441" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-1" value="千年舟业务流程图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="78.00000000000045" y="168" width="480" height="694" as="geometry" />
+          <mxGeometry x="78.00000000000045" y="168" width="480" height="860" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-2" value="B2B" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry y="20" width="120" height="674" as="geometry" />
+          <mxGeometry y="20" width="120" height="840" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-3" value="NC" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry x="120" y="20" width="120" height="674" as="geometry" />
+          <mxGeometry x="120" y="20" width="120" height="840" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-4" value="CJM" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry x="240" y="20" width="120" height="674" as="geometry" />
+          <mxGeometry x="240" y="20" width="120" height="840" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-5" value="PDA" style="swimlane;startSize=20;html=1;strokeColor=#CCCCCC;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-1">
-          <mxGeometry x="360" y="20" width="120" height="674" as="geometry" />
+          <mxGeometry x="360" y="20" width="120" height="840" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-6" value="运营部" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="58" y="208" width="500" height="68" as="geometry" />
@@ -100,6 +100,9 @@
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-70" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;根据什么条件区分？&lt;/span&gt;" style="shape=note;strokeWidth=1;fontSize=14;size=7;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
           <mxGeometry x="364" y="208" width="70" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-71" value="出库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
+          <mxGeometry x="423" y="284" width="48" height="34" as="geometry" />
+        </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TAGOlAmAuXUKBA5VvmmO-11" target="TAGOlAmAuXUKBA5VvmmO-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -123,13 +126,19 @@
           <mxGeometry x="566" y="460" width="70" height="56" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-36" value="OEM工厂" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="58" y="776" width="500" height="200" as="geometry" />
+          <mxGeometry x="58" y="912" width="500" height="116" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-46" value="申请商标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-36">
           <mxGeometry x="40" y="20" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TAGOlAmAuXUKBA5VvmmO-46" target="TAGOlAmAuXUKBA5VvmmO-48">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-72" value="品管" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="58" y="776" width="500" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-73" value="申请商标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-72">
+          <mxGeometry x="40" y="20" width="70" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
