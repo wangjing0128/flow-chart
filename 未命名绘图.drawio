@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:30:22.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="m7r34v0Y4Wa6of8eIlUd" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:31:34.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yEfCYV1MyFwWyUTzmyhj" version="24.2.2" type="github">
   <diagram name="第 1 页" id="xDeUuq_dLQ9xrVxdTuq4">
     <mxGraphModel dx="819" dy="441" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,8 +116,19 @@
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-73" value="按单出库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
           <mxGeometry x="406" y="294" width="70" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="TAGOlAmAuXUKBA5VvmmO-75" value="选择产品-扫码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TAGOlAmAuXUKBA5VvmmO-17" source="TAGOlAmAuXUKBA5VvmmO-75" target="TAGOlAmAuXUKBA5VvmmO-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-80" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;贴标中&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TAGOlAmAuXUKBA5VvmmO-79">
+          <mxGeometry x="0.1753" y="2" relative="1" as="geometry">
+            <mxPoint x="9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-75" value="选择产品-扫码-上传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
           <mxGeometry x="406" y="346" width="70" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TAGOlAmAuXUKBA5VvmmO-78" value="同步出库单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TAGOlAmAuXUKBA5VvmmO-17">
+          <mxGeometry x="290" y="346" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TAGOlAmAuXUKBA5VvmmO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TAGOlAmAuXUKBA5VvmmO-11" target="TAGOlAmAuXUKBA5VvmmO-13">
           <mxGeometry relative="1" as="geometry" />
